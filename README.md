@@ -6,8 +6,6 @@ Here is some more text
 
 More text
 
-<<<<<<< HEAD
-????
-=======
 Test 3
->>>>>>> d44b02e (Pull test)
+
+Here is some text in the branch readme file
