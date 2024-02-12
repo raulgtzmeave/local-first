@@ -8,7 +8,3 @@ More text
 
 Test 3
 
-Here is some text in the branch readme file
-
-Ok, now I am trying to do a pull request ---
-
